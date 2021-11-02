@@ -100,11 +100,9 @@ a:visited{
         font-family: 'Alegreya Sans SC', Sans-Serif;
         background-color: #f1f1f1;
     }
-
     nav{
         width: 100%;
     }
-
     .nav_links{
         display: flex;
         flex-direction: row;
@@ -134,4 +132,4 @@ a:visited{
     .pricing li:nth-child(3):before {
         content: '\1F44D';
     }
-}
+  }
